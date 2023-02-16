@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1052176081921",
+    "project_id": "codeme-2d5fb",
+    "storage_bucket": "codeme-2d5fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052176081921:android:3ab7165fbd082e26f00c00",
+        "android_client_info": {
+          "package_name": "com.example.code3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052176081921-bdid2gcl2u4lsiusaj4kivfssihilosg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJMNLTmyE-Sjoag2c8Z5H7G4WVwkuaLi8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052176081921-bdid2gcl2u4lsiusaj4kivfssihilosg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
